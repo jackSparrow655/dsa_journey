@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "stdio.h": "c",
+        "type_traits": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "list": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
